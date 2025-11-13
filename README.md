@@ -27,4 +27,4 @@ The goal is to measure the time required to click two circular targets in sequen
   -  Index of Difficulty (ID)
   -  Reaction Time (s)
 
-# RUN main.py
+    RUN main.py
